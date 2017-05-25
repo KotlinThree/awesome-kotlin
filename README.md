@@ -2,11 +2,11 @@
 
 ## 入门贴
 
-[官方教程](https://kotlinlang.org/docs/reference/basic-syntax.html)
+- [官方教程](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
-[http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html](http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html)
+- [java vs kotlin](http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html)
 
-[https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
+- [https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
 
 
 ## Android Extensions
