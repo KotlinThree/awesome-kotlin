@@ -6,7 +6,7 @@
 
 - [java vs kotlin](http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html)
 
-- [https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
+- [Kotlin入门和使用](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
 
 
 ## Android Extensions
