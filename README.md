@@ -1,12 +1,20 @@
 # awesome-kotlin
-aswome-kotlin
 
-# Android Extensions
+## 入门贴
+
+[官方教程](https://kotlinlang.org/docs/reference/basic-syntax.html)
+
+[http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html](http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html)
+
+[https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
+
+
+## Android Extensions
 
    * [anko](https://github.com/Kotlin/anko) Pleasant Android application development
   
   * [KotlinThree](https://github.com/KotlinThree/AndroidExtension) AndroidExtension use kotlin provide useful and smooth extexsions for android developer.
   
-# Kotlin App
+## Kotlin App
 
    * [Google Samples](https://github.com/googlesamples/android-DownloadableFonts/tree/master/kotlinApp) Android DownloadableFonts Sample (Kotlin)
