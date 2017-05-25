@@ -3,10 +3,10 @@
 ## 入门贴
 
 - [官方教程](https://kotlinlang.org/docs/reference/basic-syntax.html)
-
+- [Kotlin中文教程](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
 - [java vs kotlin](http://www.jcodecraeer.com/demo/from-java-to-kotlin/index.html)
-
 - [Kotlin入门和使用](https://github.com/mcxiaoke/kotlin-notes/blob/master/notes.md)
+
 
 
 ## Android Extensions
